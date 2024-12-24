@@ -1,0 +1,43 @@
+com.example.spotify.app-core-runtime-2.2.0-0 C:\Users\Pradun\.gradle\caches\transforms-3\1695e5c0b9c3063e01419c120566dc19\transformed\core-runtime-2.2.0\res
+com.example.spotify.app-jetified-startup-runtime-1.1.1-1 C:\Users\Pradun\.gradle\caches\transforms-3\22be8d06c37380031e1a7f822f2692c2\transformed\jetified-startup-runtime-1.1.1\res
+com.example.spotify.app-jetified-play-services-basement-18.3.0-2 C:\Users\Pradun\.gradle\caches\transforms-3\241b6f816004dcfcb158c2f7cf133ad4\transformed\jetified-play-services-basement-18.3.0\res
+com.example.spotify.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-3 C:\Users\Pradun\.gradle\caches\transforms-3\39bb2e6216144539c60b731dddb9c279\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.spotify.app-jetified-profileinstaller-1.3.1-4 C:\Users\Pradun\.gradle\caches\transforms-3\3f9220e7e9e95572afd8d57c13dc2212\transformed\jetified-profileinstaller-1.3.1\res
+com.example.spotify.app-jetified-window-java-1.2.0-5 C:\Users\Pradun\.gradle\caches\transforms-3\4b44bcea7773a4522926dc7e2842bae6\transformed\jetified-window-java-1.2.0\res
+com.example.spotify.app-jetified-annotation-experimental-1.4.0-6 C:\Users\Pradun\.gradle\caches\transforms-3\4f1f237238b61bc1ebcbfcaf73f46dd9\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.spotify.app-jetified-play-services-auth-20.7.0-7 C:\Users\Pradun\.gradle\caches\transforms-3\54dc9ecad11aa889815ed25fed7b388e\transformed\jetified-play-services-auth-20.7.0\res
+com.example.spotify.app-jetified-savedstate-1.2.1-8 C:\Users\Pradun\.gradle\caches\transforms-3\5fbada246a1ead600e72a9b6f3a72c1d\transformed\jetified-savedstate-1.2.1\res
+com.example.spotify.app-core-1.13.1-9 C:\Users\Pradun\.gradle\caches\transforms-3\60b2af86b2bba0025cc1a694111c172d\transformed\core-1.13.1\res
+com.example.spotify.app-browser-1.4.0-10 C:\Users\Pradun\.gradle\caches\transforms-3\62ea9be47f30dd11dadf7c0c15fb47df\transformed\browser-1.4.0\res
+com.example.spotify.app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 C:\Users\Pradun\.gradle\caches\transforms-3\6a89185e43323afc013404032791c1d5\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.spotify.app-jetified-core-1.0.0-12 C:\Users\Pradun\.gradle\caches\transforms-3\6ed4a472f1ff0995016b893865ed3fe8\transformed\jetified-core-1.0.0\res
+com.example.spotify.app-jetified-firebase-common-21.0.0-13 C:\Users\Pradun\.gradle\caches\transforms-3\83d0f9542ffb598672253f7ccace37e7\transformed\jetified-firebase-common-21.0.0\res
+com.example.spotify.app-jetified-credentials-1.2.0-rc01-14 C:\Users\Pradun\.gradle\caches\transforms-3\8d0d8f8971bd19569d1a712c09a19652\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.spotify.app-lifecycle-livedata-2.7.0-15 C:\Users\Pradun\.gradle\caches\transforms-3\90c450d2d246d2f8164377f84a8a55c2\transformed\lifecycle-livedata-2.7.0\res
+com.example.spotify.app-jetified-tracing-1.2.0-16 C:\Users\Pradun\.gradle\caches\transforms-3\96bf0db4736d7f9861d9329078e162d4\transformed\jetified-tracing-1.2.0\res
+com.example.spotify.app-jetified-credentials-play-services-auth-1.2.0-rc01-17 C:\Users\Pradun\.gradle\caches\transforms-3\98741775a82af37ff3da705fb28865c9\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.spotify.app-jetified-lifecycle-process-2.7.0-18 C:\Users\Pradun\.gradle\caches\transforms-3\a073338d663238f5aac8434017632a44\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.spotify.app-lifecycle-viewmodel-2.7.0-19 C:\Users\Pradun\.gradle\caches\transforms-3\a3daed234e7f052a70a8292b4e31d88a\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.spotify.app-jetified-ads-adservices-1.0.0-beta05-20 C:\Users\Pradun\.gradle\caches\transforms-3\ae5ef8b4995d0b5cfc768e127531d7df\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.example.spotify.app-jetified-core-ktx-1.13.1-21 C:\Users\Pradun\.gradle\caches\transforms-3\ca60e194d56db67d50f60896b699f11a\transformed\jetified-core-ktx-1.13.1\res
+com.example.spotify.app-jetified-window-1.2.0-22 C:\Users\Pradun\.gradle\caches\transforms-3\d6daa9aa87543417da95bfc1bcfbff69\transformed\jetified-window-1.2.0\res
+com.example.spotify.app-jetified-activity-1.8.1-23 C:\Users\Pradun\.gradle\caches\transforms-3\daa68eda3352cc00f0eec73f08c19638\transformed\jetified-activity-1.8.1\res
+com.example.spotify.app-jetified-play-services-measurement-api-22.0.1-24 C:\Users\Pradun\.gradle\caches\transforms-3\ea5563ab1f25bad9989537c0e3349371\transformed\jetified-play-services-measurement-api-22.0.1\res
+com.example.spotify.app-lifecycle-runtime-2.7.0-25 C:\Users\Pradun\.gradle\caches\transforms-3\eb544e4fe2af456c806bf31ef8d73774\transformed\lifecycle-runtime-2.7.0\res
+com.example.spotify.app-lifecycle-livedata-core-2.7.0-26 C:\Users\Pradun\.gradle\caches\transforms-3\f263dbe807eec70c894397f9e08eb948\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.spotify.app-jetified-play-services-base-18.0.1-27 C:\Users\Pradun\.gradle\caches\transforms-3\f3bcaf7f3dff86c4ef788a48ce3e727e\transformed\jetified-play-services-base-18.0.1\res
+com.example.spotify.app-jetified-ads-adservices-java-1.0.0-beta05-28 C:\Users\Pradun\.gradle\caches\transforms-3\f53d43b2d0d2b1dc6081069014eeb95d\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.example.spotify.app-fragment-1.7.1-29 C:\Users\Pradun\.gradle\caches\transforms-3\fd900e592f41b5bb743487b7893ee7b5\transformed\fragment-1.7.1\res
+com.example.spotify.app-debug-30 D:\Flutter Projects\SPOTIFY\android\app\src\debug\res
+com.example.spotify.app-main-31 D:\Flutter Projects\SPOTIFY\android\app\src\main\res
+com.example.spotify.app-RES-32 D:\Flutter Projects\SPOTIFY\android\build\app\RES\processDebugGoogleServices
+com.example.spotify.app-pngs-33 D:\Flutter Projects\SPOTIFY\android\build\app\generated\res\pngs\debug
+com.example.spotify.app-resValues-34 D:\Flutter Projects\SPOTIFY\android\build\app\generated\res\resValues\debug
+com.example.spotify.app-rs-35 D:\Flutter Projects\SPOTIFY\android\build\app\generated\res\rs\debug
+com.example.spotify.app-mergeDebugResources-36 D:\Flutter Projects\SPOTIFY\android\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.spotify.app-mergeDebugResources-37 D:\Flutter Projects\SPOTIFY\android\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.spotify.app-merged_res-38 D:\Flutter Projects\SPOTIFY\android\build\app\intermediates\merged_res\debug
+com.example.spotify.app-packaged_res-39 D:\Flutter Projects\SPOTIFY\android\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.spotify.app-packaged_res-40 D:\Flutter Projects\SPOTIFY\android\build\firebase_auth\intermediates\packaged_res\debug
+com.example.spotify.app-packaged_res-41 D:\Flutter Projects\SPOTIFY\android\build\firebase_core\intermediates\packaged_res\debug
+com.example.spotify.app-packaged_res-42 D:\Flutter Projects\SPOTIFY\android\build\path_provider_android\intermediates\packaged_res\debug
